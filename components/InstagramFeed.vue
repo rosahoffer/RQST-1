@@ -3,7 +3,7 @@ import { ref, onMounted, computed } from 'vue';
 import axios from 'axios';
 
 const fetchInstagramFeed = async () => {
-  const API_URL = process.env.VUE_APP_INSTAGRAM_API_URL;
+  const API_URL = "https://v1.nocodeapi.com/studiorqst/instagram/BCojmeILPamuZJUh";
 
   try {
     const response = await axios.get(API_URL);
