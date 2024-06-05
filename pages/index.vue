@@ -42,7 +42,14 @@ useJsonld({
   <div>
     <head>
       <title>Studio RQST: Waar Webdevelopment, Webdesign en Branding samenkomen - Just Request It</title>
-      <meta name="description" content="Stap binnen in de wereld van Studio RQST, waar we jouw visie omzetten in digitale realiteit. Ontmoet ons team van creatieve experts, bekijk onze eerdere successen en stuur je request voor een unieke samenwerking. Laat ons je helpen om jouw merk te laten opvallen en impact te maken.">
+      <meta name="description"
+            content="Stap binnen in de wereld van Studio RQST, waar we jouw visie omzetten in digitale realiteit.">
+
+      <meta name="keywords" content="webdevelopment, webdesign, branding, website, op maat, creatieve website">
+
+      <!-- Adres -->
+      <meta name="address" content="Bazelstraat 16, 3555 CS Utrecht, Nederland" />
+
     </head>
     <NavbarNavBar/>
     <HomePage/>
